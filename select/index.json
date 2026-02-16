@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BOYZ",
+  "base_artist": "SixTONES",
+  "createdAt": "2026-02-16T11:13:24.262877Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Lover (feat. Boyz II Men)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_Hey_Lover_(feat._Boyz_II_Men)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tell Dem Boyz Ima Skeleton",
+      "artist": "Lil Ugly Mane",
+      "has_synced": false,
+      "path": "select/02_Tell_Dem_Boyz_Ima_Skeleton_Lil_Ugly_Mane.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boyz",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/03_Boyz_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boyz (Instrumental)",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/04_Boyz_(Instrumental)_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hot Boyz",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/05_Hot_Boyz_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Sweet Day (Feat. Boyz II Men)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/06_One_Sweet_Day_(Feat._Boyz_II_Men)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dem Boyz",
+      "artist": "Nelly feat. St. Lunatics",
+      "has_synced": true,
+      "path": "select/07_Dem_Boyz_Nelly_feat._St._Lunatics.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dem Boyz",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/08_Dem_Boyz_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Call (feat. Slimm Calhoun, Lil' Jon, The EastSide Boyz & Mello)",
+      "artist": "OutKast, Slimm Calhoun, Lil Jon, Eastside Boyz & Mello",
+      "has_synced": false,
+      "path": "select/09_Last_Call_(feat._Slimm_Calhoun,_Lil'_Jon,_The_EastSide_Boyz_&_Mello)_OutKast,_Slimm_Calhoun,_Lil_Jon,_Eastside_Boyz_&_Mello.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Call (feat. Slimm Calhoun, Lil Jon & The East Side Boyz & Mello)",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/10_Last_Call_(feat._Slimm_Calhoun,_Lil_Jon_&_The_East_Side_Boyz_&_Mello)_OutKast.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dem Boyz",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/11_Dem_Boyz_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Geeks Were Right (Boyz Noize Vs. D.I.M. Mix)",
+      "artist": "The Faint",
+      "has_synced": false,
+      "path": "select/12_The_Geeks_Were_Right_(Boyz_Noize_Vs._D.I.M._Mix)_The_Faint.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Morë Tonight (feat. Teriyaki Boyz)",
+      "artist": "Nigo",
+      "has_synced": true,
+      "path": "select/13_Morë_Tonight_(feat._Teriyaki_Boyz)_Nigo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Free Dem Boyz",
+      "artist": "42 Dugg",
+      "has_synced": false,
+      "path": "select/14_Free_Dem_Boyz_42_Dugg.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Free Dem Boyz Pt. 2",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/15_Free_Dem_Boyz_Pt._2_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Boyz",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/16_Boyz_Beck.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOYZ",
+      "artist": "SixTONES",
+      "has_synced": false,
+      "path": "select/pl_01_BOYZ_SixTONES.txt"
+    }
+  ]
+}
