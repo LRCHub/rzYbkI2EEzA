@@ -1,0 +1,55 @@
+# SixTONES – BOYZ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+満たされないままだった
+独りよがりの Emotion
+はぐらかすように
+Bring it on 風を切って
+失うものなんてない
+守るべきものもない
+遠吠えはいつか
+蒼い空に Fly away
+Just tell me everything
+答えを探しながら
+たとえ無謀だと
+言われても構わない
+今、扉を開けるんだ
+起死回生 望んだ Future
+手を伸ばして たぐり寄せる
+This is my revolution ただ
+突き進んでいくだけ
+運命さえ 片っ端から
+Get out of the way
+履き違えたプライド? 正義? 興味ねぇ
+決めたんならやるだけ Today is the day
+どんな不条理も面と向かってやるぜ
+I know 最後の砦は We are boyz
+勝つか負けるかは論外
+こっから先は一心同体
+だせぇタラレバ んなもんはオサラバ
+逃げも隠れもしねぇ Come on, follow me
+Don't look back
+モノクロの世界を抜け出して
+此処にいる意味が
+何かを背負う日々が
+たとえ幻になったとしても
+今、扉を開けるんだ
+起死回生 望んだ Future
+手を伸ばして たぐり寄せる
+This is my revolution ただ
+突き進んでいくだけ
+運命さえ 片っ端から
+Get out of the way
+I'm gonna do it, alright?
+根拠も何もない
+行く手を阻む奴は皆 No more chances
+似ても似つかないヒーローに
+成り上がれ 笑え
+共に Prove my story, yeah
+誰かを守る強さを
+この心臓に宿して
+綱渡りのように
+Climb to the top
+```
